@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini Quiz Turkish Language</string>
+    <string name="hint">"Hint: "</string>
+    <string name="question1">1. Read the e-mail and decide which word is missing.</string>
+    <string name="question2">2. Read the below text and fill in the gaps.</string>
+    <string name="question3">3. Read the below text and mark true statements.</string>
+    <string name="submit">"Submit Answer "</string>
+    <string name="title">Turkish B1</string>
+</resources>

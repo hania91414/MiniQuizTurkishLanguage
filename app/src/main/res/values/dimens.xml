@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="textBig">20sp</dimen>
+    <dimen name="textMedium">16sp</dimen>
+    <dimen name="textMediumPlus">18sp</dimen>
+    <dimen name="textSmall">14sp</dimen>
+    <dimen name="paddingSmall">8dp</dimen>
+    <dimen name="paddingMicro">4dp</dimen>
+    <dimen name="paddingNormal">10dp</dimen>
+    <dimen name="paddingBig">20dp</dimen>
+
+</resources>

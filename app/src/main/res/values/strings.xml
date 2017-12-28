@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mini Quiz Turkish Language</string>
+    <string name="title">Türkçe B1</string>
+    <string name="source">Source: www.telc.net</string>
+    <string name="part1text1">Sevgili Arkadaşım Mina,</string>
+
+    <string name="question1">1. Aşağıdaki e-postayı okuyunuz ve en uygun olan cevabı bulunuz.</string>
+    <string name="question1_answ1">yazabiliyorum</string>
+    <string name="question1_answ2">yazarım</string>
+    <string name="question1_answ3">yazayım</string>
+
+    <string name="question2">2. Aşağıdaki metni okuyunuz ve boşlukları doldurunuz.</string>
+    <string name="question2_answ1">olan</string>
+    <string name="question2_answ2">oldu</string>
+    <string name="question2_answ3">olduğu</string>
+
+    <string name="part2text1">Sevgili Batu,</string>
+
+    <string name="hint">"İpucu: "</string>
+    <string name="question3_hint">erkenden, de, her, en, hep, nasıl</string>
+
+    <string name="question3">3. Aşağıdaki metinleri okuyunuz ve doğru olanları işaretleyiniz.</string>
+    <string name="part3text1">İstanbul otogarında bir duyuru yapılıyor:</string>
+    <string name="part4text1">Büyük bir alışveriş merkezinde bir reklam duyurusu yapılıyor:</string>
+
+        <string name="checkbox1">Kafeslerinde olmak kaydıyla evcil hayvanlar arka koltuklarda taşınabilir.</string>
+        <string name="checkbox2">Taksitle tatlı, şeker ve çikolata alabilirsiniz.</string>
+        <string name="checkbox3">Bazı uçak seferleri iptal edildi.</string>
+       <string name="submit">Cevabı Gönder</string>
+
+</resources>
